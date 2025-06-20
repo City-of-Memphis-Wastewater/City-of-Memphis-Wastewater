@@ -22,10 +22,10 @@ We aim to promote transparency, community collaboration, and efficiency by openl
 
 ## Key Projects
 
-- **powershell-tools** — PowerShell profiles, aliases, and utility scripts tailored for our development environment.
-- **pipeline** — Python modules and daemons for EDS sensor data transmission and API integration with third parties.
-- **xlimsprep** — A Pythonic pandas and tkinter utility for sanitizing and plotting data exported from the X-LIMS system.
-- **maxops** — Data entry and aggregation software package for operator entry, given daily and hourly reporting requirements. 
+- [**powershell-tools**](https://github.com/City-of-Memphis-Wastewater/powershell-tools) — PowerShell profiles, aliases, and utility scripts tailored for our development environment.
+- [**pipeline**](https://github.com/City-of-Memphis-Wastewater/pipeline) — Python modules and daemons for EDS sensor data transmission and API integration with third parties.
+- [**xlimsprep**](https://github.com/City-of-Memphis-Wastewater/xlimsprep) — A Pythonic pandas and tkinter utility for sanitizing and plotting data exported from the X-LIMS system.
+- [**maxops**](https://github.com/City-of-Memphis-Wastewater/maxops) — Data entry and aggregation software package for operator entry, given daily and hourly reporting requirements. 
 
 ---
 
