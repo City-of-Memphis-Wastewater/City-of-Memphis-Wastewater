@@ -25,7 +25,7 @@ We aim to promote transparency, community collaboration, and efficiency by openl
 - **powershell-tools** — PowerShell profiles, aliases, and utility scripts tailored for our development environment.
 - **pipeline** — Python modules and daemons for EDS sensor data transmission and API integration with third parties.
 - **xlimsprep** — A Pythonic pandas and tkinter utility for sanitizing and plotting data exported from the X-LIMS system.
-- ***maxops** — Data entry and aggregation software package for operator entry, given daily and hourly reporting requirements. 
+- **maxops** — Data entry and aggregation software package for operator entry, given daily and hourly reporting requirements. 
 
 ---
 
