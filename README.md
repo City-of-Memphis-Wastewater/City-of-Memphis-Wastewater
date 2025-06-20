@@ -39,7 +39,7 @@ To explore our projects, visit the [repositories tab](https://github.com/City-of
 
 ## Contributing
 
-~~We welcome contributions, bug reports, and feature requests! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.~~
+Please contact directly to discuss contribution.
 
 ---
 
